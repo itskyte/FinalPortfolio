@@ -1,0 +1,15 @@
+@extends('layouts.app')
+@section('content')
+<h1>Agent</h1>
+<h1>Agent</h1>
+<h1>Agent</h1>
+<h1>Agent</h1>
+<h1>Agent</h1>
+<h1>Agent</h1>
+<h1>Agent</h1>
+<h1>Agent</h1>
+<h1>Agent</h1>
+<h1>Agent</h1>
+<h1>Agent</h1>
+<h1>Agent</h1>
+@endsection 	

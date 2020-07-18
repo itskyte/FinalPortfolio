@@ -1,0 +1,15 @@
+@extends('layouts.app')
+@section('content')
+<h1>ourpartner</h1>
+<h1>ourpartner</h1>
+<h1>ourpartner</h1>
+<h1>ourpartner</h1>
+<h1>ourpartner</h1>
+<h1>ourpartner</h1>
+<h1>ourpartner</h1>
+<h1>ourpartner</h1>
+<h1>ourpartner</h1>
+<h1>ourpartner</h1>
+<h1>ourpartner</h1>
+<h1>ourpartner</h1>
+@endsection 	
